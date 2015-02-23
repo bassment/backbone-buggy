@@ -1,0 +1,1207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"M",
+				"MainRouter"
+			],
+			[
+				"cof",
+				"coffee/"
+			],
+			[
+				"scri",
+				"script	Tag"
+			],
+			[
+				"scr",
+				"scriptsrc	script-source"
+			],
+			[
+				"ba",
+				"Backbone"
+			],
+			[
+				"Todo",
+				"TodoRouter"
+			],
+			[
+				"pag",
+				"page_number"
+			],
+			[
+				"se",
+				"searchTodos"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"eve",
+				"Events"
+			],
+			[
+				"fil",
+				"filteredNames"
+			],
+			[
+				"cha",
+				"chain"
+			],
+			[
+				"T",
+				"TodosCollection"
+			],
+			[
+				"_e",
+				"_each	Underscore.js each"
+			],
+			[
+				"but",
+				"button1"
+			],
+			[
+				"butto",
+				"button1"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"at",
+				"attrs"
+			],
+			[
+				"if",
+				"if	If"
+			],
+			[
+				"com",
+				"completed"
+			],
+			[
+				"un",
+				"unset"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"todo",
+				"todo3"
+			],
+			[
+				"c",
+				"completed"
+			],
+			[
+				"t",
+				"todo2"
+			],
+			[
+				"s",
+				"stringify"
+			],
+			[
+				"p",
+				"puts"
+			],
+			[
+				"gre",
+				"greeter"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"f",
+				"first〔function〕"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"script",
+				"scriptsrc	script-source"
+			],
+			[
+				"Index",
+				"indexOf"
+			],
+			[
+				"ve",
+				"vehicle2"
+			],
+			[
+				"Ve",
+				"Vehicles"
+			],
+			[
+				"Vehicle",
+				"Vehicles"
+			],
+			[
+				"rout",
+				"router"
+			],
+			[
+				"Ur",
+				"urlPath"
+			],
+			[
+				"docu",
+				"document"
+			],
+			[
+				"Docum",
+				"DocumentView"
+			],
+			[
+				"sele",
+				"selectedDocument"
+			],
+			[
+				"view",
+				"viewDocument"
+			],
+			[
+				"D",
+				"DocumentRouter"
+			],
+			[
+				"co",
+				"compiled"
+			],
+			[
+				"red",
+				"render"
+			],
+			[
+				"pre",
+				"prepend"
+			],
+			[
+				"fv",
+				"FormView"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"el",
+				"el"
+			],
+			[
+				"my",
+				"myView"
+			],
+			[
+				"V",
+				"V"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"la",
+				"lambda"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"ff",
+				"ff	form_for"
+			],
+			[
+				"wr",
+				"writeln  (function)"
+			],
+			[
+				"subject",
+				"subject_params"
+			],
+			[
+				"su",
+				"Subject"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"whe",
+				"where"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"SIM",
+				"simple_cms"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fo",
+				"font-variant"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"ba-c",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ext",
+				"extension"
+			],
+			[
+				"ses",
+				"sessions"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"fla",
+				"flash"
+			],
+			[
+				"local",
+				"localdomain"
+			],
+			[
+				"crea",
+				"create_song"
+			],
+			[
+				"cre",
+				"create_song"
+			],
+			[
+				"find",
+				"find_song"
+			],
+			[
+				"Son",
+				"SongHelpers"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/application/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 52,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/app/buggy.js.coffee",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/app/routers/main_router.js.coffee",
+			"settings":
+			{
+				"buffer_size": 129,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/builds/Coffee-Compile.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"set un",
+				"Set Syntax: HTML (Underscore)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"git l",
+				"Git: Log All"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git check",
+				"Git: Checkout Tag"
+			],
+			[
+				"checout",
+				"Git: Checkout Current File"
+			],
+			[
+				"che",
+				"Git: Checkout Tag"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"lo",
+				"Git: Log All"
+			],
+			[
+				"amen",
+				"Git: Amend Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"reser",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"chec",
+				"Git: Checkout Tag"
+			],
+			[
+				"check",
+				"Git: Checkout Tag"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"toggle",
+				"View: Toggle Minimap"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"BROWSER",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synta ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - Default"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"syntax co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"di",
+				"FileDiffs: Menu"
+			],
+			[
+				"d",
+				"Set Syntax: Diff"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"delete ",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"PAC",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"wo	",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"side ba",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"cd Desktop",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/anton/SinatraProjects/BackboneRails/buggy",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views"
+	],
+	"file_history":
+	[
+		"/home/anton/SinatraProjects/BackboneRails/buggy/Gemfile",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/.gitignore",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/routers/main_router.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/bin/bundle",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views/layouts/application.html.erb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/application.css",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/application.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/Rakefile",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/bin/rails",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/css/main.css",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/coffee/js/test.js",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/coffee/test.coffee",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/coffee/js/models/todo.js",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/coffee/js/collections/todos.js",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/coffee/js/views/todos.js",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/coffee/js/views/app.js",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/index.html",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/coffee/js/app.js",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/coffee/js/routers/router.js",
+		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/Todo.sublime-project",
+		"/home/anton/SinatraProjects/o'reilly-backbone/BB-basics/coffee/Todo.sublime-project",
+		"/home/anton/SinatraProjects/o'reilly-backbone/BB-basics/coffee/test.coffee",
+		"/home/anton/SinatraProjects/o'reilly-backbone/BB-basics/index.html",
+		"/home/anton/SinatraProjects/o'reilly-backbone/BB-basics/coffee/js/test.js",
+		"/home/anton/SinatraProjects/backbone_app/html/index.html",
+		"/home/anton/SinatraProjects/git_tutorial/repos/lab_25/lib/greeter.rb",
+		"/home/anton/SinatraProjects/git_tutorial/hello/README.txt",
+		"/home/anton/SinatraProjects/git_tutorial/hello/Rakefile",
+		"/home/anton/SinatraProjects/git_tutorial/hello/lib/hello.rb",
+		"/home/anton/SinatraProjects/git_tutorial/cloned_hello/README.txt",
+		"/home/anton/SinatraProjects/git_tutorial/cloned_hello/lib/greeter.rb",
+		"/home/anton/SinatraProjects/git_tutorial/html/DINWeb-CondBold.woff",
+		"/home/anton/SinatraProjects/git_tutorial/hello/lib/greeter.rb",
+		"/home/anton/SinatraProjects/git_tutorial/hello/hello.rb",
+		"/home/anton/SinatraProjects/git_tutorial/html/lab_01.html",
+		"/home/anton/SinatraProjects/backbone_app/coffee/js/test.js",
+		"/home/anton/SinatraProjects/backbone_app/html/index2.html",
+		"/home/anton/SinatraProjects/backbone_app/coffee/test.coffee",
+		"/home/anton/SinatraProjects/backbone_app/java/lol/css/hello.txt",
+		"/home/anton/SinatraProjects/backbone_app/css/main.css",
+		"/home/anton/SinatraProjects/backbone_app/js/test-coffee.js",
+		"/home/anton/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/anton/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/anton/SinatraProjects/backbone_app/coffee/js/test-coffee.js",
+		"/home/anton/.config/sublime-text-3/Packages/User/builds/Coffee-Compile.sublime-build",
+		"/home/anton/SinatraProjects/backbone_app/index2.html",
+		"/home/anton/SinatraProjects/backbone_app/coffee/test-coffee.coffee",
+		"/home/anton/SinatraProjects/backbone_app/js/test.js",
+		"/home/anton/SinatraProjects/backbone_app/my-theme.sublime-project",
+		"/home/anton/SinatraProjects/backbone_app/testfile.js",
+		"/home/anton/SinatraProjects/backbone_app/coffee/test.js",
+		"/home/anton/SinatraProjects/backbone_app/testing.coffee",
+		"/home/anton/SinatraProjects/Coffee-test/index.html",
+		"/home/anton/SinatraProjects/Coffee-test/coffeescript/testing.coffee",
+		"/home/anton/SinatraProjects/Coffee-test/coffeescript/test.coffee",
+		"/home/anton/SinatraProjects/Coffee-test/javascript/test.js",
+		"/home/anton/SinatraProjects/Coffee-test/javascript/testing.js",
+		"/home/anton/.config/sublime-text-3/Packages/User/coffeescript/backbone/bb-collection-extend.sublime-snippet",
+		"/home/anton/SinatraProjects/backbone_app/index3.html",
+		"/home/anton/.config/sublime-text-3/Packages/User/coffeescript/backbone/bb-model-extend.sublime-snippet",
+		"/home/anton/.config/sublime-text-3/Packages/User/coffeescript/backbone/bb-router-extend.sublime-snippet",
+		"/home/anton/SinatraProjects/backbone_app/js/underscore-min.js",
+		"/home/anton/.config/sublime-text-3/Packages/User/coffeescript/backbone/bb-view-extend.sublime-snippet",
+		"/home/anton/SinatraProjects/backbone_app/index1.html",
+		"/home/anton/SinatraProjects/backbone_app (empty)/index.html",
+		"/home/anton/SinatraProjects/backbone_app (empty)/backbone_app/coffee/test.coffee",
+		"/home/anton/SinatraProjects/backbone_app (empty)/backbone_app/css/style.css",
+		"/home/anton/SinatraProjects/backbone_app (empty)/backbone_app/index1.html",
+		"/home/anton/.config/sublime-text-3/Packages/User/JavaScript/script-source.sublime-snippet",
+		"/home/anton/.config/sublime-text-3/Packages/User/JavaScript/untitled.sublime-snippet",
+		"/home/anton/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/anton/Desktop/[pluralsight.com] Backbone.js Fundamentals/code/backbone-02-validation.js",
+		"/home/anton/SinatraProjects/backbone_app/index.html",
+		"/home/anton/SinatraProjects/backbone_app/coffee/rectangles.coffee",
+		"/home/anton/SinatraProjects/backbone_app/js/rectangles.js",
+		"/home/anton/SinatraProjects/backbone_app/js/rectangles.js.js",
+		"/home/anton/SinatraProjects/backbone_app/coffee/rectangles.js",
+		"/home/anton/Desktop/[pluralsight.com] Backbone.js Fundamentals/code/after/code/backbone-01-03/env.html",
+		"/home/anton/SinatraProjects/backbone_app/js/rectangles.js.coffee",
+		"/home/anton/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/anton/SinatraProjects/backbone_app/js/js.js",
+		"/home/anton/Desktop/[pluralsight.com] Backbone.js Fundamentals/code/after/code/backbone-01-03/rectangles.js",
+		"/home/anton/SinatraProjects/backbone_app/js/index.html",
+		"/home/anton/Desktop/coffeescript/package.json",
+		"/home/anton/Desktop/coffeescript/index.html",
+		"/home/anton/Desktop/simple_cms/app/views/application/_error_messages.html.erb",
+		"/home/anton/Desktop/simple_cms/app/assets/stylesheets/admin.css",
+		"/home/anton/Desktop/simple_cms/app/views/sections/_form.html.erb",
+		"/home/anton/Desktop/simple_cms/app/helpers/application_helper.rb",
+		"/home/anton/Desktop/simple_cms/app/models/subject.rb",
+		"/home/anton/Desktop/simple_cms/app/views/pages/_form.html.erb",
+		"/home/anton/Desktop/simple_cms/app/views/subjects/_form.html.erb",
+		"/home/anton/Desktop/simple_cms/app/controllers/subjects_controller.rb",
+		"/home/anton/Desktop/simple_cms/app/views/sections/index.html.erb",
+		"/home/anton/Desktop/simple_cms/app/controllers/sections_controller.rb",
+		"/home/anton/Desktop/simple_cms/app/views/pages/index.html.erb",
+		"/home/anton/Desktop/simple_cms/app/controllers/pages_controller.rb",
+		"/home/anton/Desktop/simple_cms/config/database.yml",
+		"/home/anton/Desktop/simple_cms/app/views/pages/show.html.erb",
+		"/home/anton/Desktop/simple_cms/app/views/pages/new.html.erb",
+		"/home/anton/Desktop/simple_cms/db/migrate/20130813025835_create_pages.rb",
+		"/home/anton/Desktop/simple_cms/app/views/pages/edit.html.erb",
+		"/home/anton/Desktop/simple_cms/app/views/subjects/show.html.erb",
+		"/home/anton/Desktop/simple_cms/config/routes.rb",
+		"/home/anton/Desktop/simple_cms/app/controllers/pages_controller_controller.rb",
+		"/home/anton/Desktop/simple_cms/app/views/pages_controller/index.html.erb",
+		"/home/anton/Desktop/simple_cms/app/views/section_controller/index.html.erb",
+		"/home/anton/Desktop/simple_cms/app/models/page.rb",
+		"/home/anton/Desktop/simple_cms/app/views/subjects/index.html.erb",
+		"/home/anton/Desktop/simple_cms/app/views/subjects/delete.html.erb",
+		"/home/anton/Desktop/simple_cms/app/views/subjects/edit.html.erb",
+		"/home/anton/Desktop/simple_cms/app/views/subjects/new.html.erb",
+		"/home/anton/.config/sublime-text-3/Packages/ERB Snippets/form_for_erb.sublime-snippet",
+		"/home/anton/Desktop/simple_cms/app/views/demo/index.html.erb",
+		"/home/anton/SinatraProjects/second_project/main.rb",
+		"/home/anton/SinatraProjects/second_project/views/template.slim",
+		"/home/anton/SinatraProjects/first_project/controller.rb",
+		"/home/anton/Desktop/good parts/program.js",
+		"/home/anton/Desktop/good parts/program.html",
+		"/home/anton/SinatraProjects/rails_lynda/simple_cms/app/models/subject.rb",
+		"/home/anton/SinatraProjects/rails_lynda/simple_cms/bin/spring",
+		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/schema.rb",
+		"/home/anton/SinatraProjects/rails_lynda/simple_cms/app/models/page.rb",
+		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/migrate/20141112134932_create_sections.rb",
+		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/migrate/20141112134925_create_pages.rb",
+		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/migrate/20141112134910_create_subjects.rb",
+		"/home/anton/SinatraProjects/rails_lynda/simple_cms/config/database.yml",
+		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/migrate/20141112125540_alter_users.rb"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button2",
+			"')",
+			"puts \"What is your name\"\nmy_name = gets.strip",
+			"#",
+			"build",
+			"','",
+			"side",
+			"toggle_side_bar",
+			"Test",
+			"test",
+			"Subject",
+			"subject",
+			"Subject",
+			"subjects",
+			"subject",
+			"Subject",
+			"subjects",
+			"subject",
+			"page",
+			"subject",
+			"@\n",
+			"subj",
+			"		\n",
+			"password",
+			"t.datetime \"created_at\"\n      t.datetime \"updated_at\"\n",
+			"    \n",
+			"    ",
+			"li",
+			"pull",
+			"		\n",
+			"div",
+			"					</dl>",
+			"    \n",
+			"songs",
+			"self",
+			"app.",
+			"app",
+			"				\n",
+			"  @",
+			"    \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/application/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/javascripts/app/buggy.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/javascripts/app/routers/main_router.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 307.0
+	},
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 214.0
+	},
+	"project": "BackRailsApp.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bug",
+				"app/assets/javascripts/app/buggy.js.coffee"
+			],
+			[
+				"app",
+				"buggy/app/controllers/application_controller.rb"
+			],
+			[
+				"rout",
+				"buggy/config/routes.rb"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"",
+				"coffee/test.coffee"
+			],
+			[
+				"te",
+				"coffee/js/test.js"
+			],
+			[
+				"clo",
+				"cloned_hello/README.txt"
+			],
+			[
+				"gr",
+				"repos/lab_25/lib/greeter.rb"
+			],
+			[
+				"tes",
+				"coffee/test.coffee"
+			],
+			[
+				"cof",
+				"coffee/test.coffee"
+			],
+			[
+				"test",
+				"js/test.js"
+			],
+			[
+				"index1",
+				"backbone_app (empty)/backbone_app/index1.html"
+			],
+			[
+				"coffe",
+				"backbone_app/coffee/test.coffee"
+			],
+			[
+				"re",
+				"backbone_app/js/rectangles.js"
+			],
+			[
+				"rec",
+				"backbone_app/coffee/rectangles.coffee"
+			],
+			[
+				"subjec",
+				"simple_cms/app/models/subject.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/SinatraProjects/ruby-lynda/Ruby.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
