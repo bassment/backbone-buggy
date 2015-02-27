@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"h",
+				"html"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"cla",
+				"cla	Class"
+			],
+			[
+				"he",
+				"headerView"
+			],
+			[
+				"hea",
+				"hearder"
+			],
+			[
 				"M",
 				"MainRouter"
 			],
@@ -114,10 +138,6 @@
 			[
 				"gre",
 				"greeter"
-			],
-			[
-				"cla",
-				"cla	class .. end"
 			],
 			[
 				"f",
@@ -296,10 +316,6 @@
 				"text-transform"
 			],
 			[
-				"te",
-				"text-align"
-			],
-			[
 				"text",
 				"text-indent"
 			],
@@ -391,37 +407,45 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app/views/application/index.html.erb",
-			"settings":
-			{
-				"buffer_size": 52,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/assets/javascripts/app/buggy.js.coffee",
-			"settings":
-			{
-				"buffer_size": 148,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/assets/javascripts/app/routers/main_router.js.coffee",
-			"settings":
-			{
-				"buffer_size": 129,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/User/builds/Coffee-Compile.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 54.0,
 		"selected_items":
 		[
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
 			[
 				"git ",
 				"Git: Init"
@@ -441,14 +465,6 @@
 			[
 				"ins",
 				"Package Control: Install Package"
-			],
-			[
-				"qui",
-				"Git: Quick Commit"
-			],
-			[
-				"add",
-				"Git: Add..."
 			],
 			[
 				"qu",
@@ -549,10 +565,6 @@
 			[
 				"toggle",
 				"View: Toggle Minimap"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
 			],
 			[
 				"remove",
@@ -746,17 +758,49 @@
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views"
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/controllers",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views/application",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views/layouts",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config"
 	],
 	"file_history":
 	[
-		"/home/anton/SinatraProjects/BackboneRails/buggy/Gemfile",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/.gitignore",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/footer.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/footer.hbs",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/header.hbs",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/routers/main_router.js.coffee",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/bin/bundle",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/main.scss",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/tmp/cache/assets/development/sass/d600559d233335b721f839c55c34ac25645c58c5/main.scssc",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/header.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/content.hbs",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/content.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/application.scss",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/application.js",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/Gemfile",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/buggy.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/application.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config.ru",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/cookies_serializer.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/database.yml",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/tmp/cache/assets/development/sass/71abee5eed08bb211fb3662cbd77de3a6306b422/_nav-divider.scssc",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/helpers/application_helper.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views/layouts/application.html.erb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/application.css",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/config/application.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/controllers/application_controller.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views/application/index.html.erb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/routes.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/main.css.scss",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/mime_types.rb",
+		"/home/anton/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/anton/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/BackRailsApp.sublime-project",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/.gitignore",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/bin/bundle",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/Rakefile",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/bin/rails",
 		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/css/main.css",
@@ -820,7 +864,6 @@
 		"/home/anton/SinatraProjects/backbone_app (empty)/backbone_app/index1.html",
 		"/home/anton/.config/sublime-text-3/Packages/User/JavaScript/script-source.sublime-snippet",
 		"/home/anton/.config/sublime-text-3/Packages/User/JavaScript/untitled.sublime-snippet",
-		"/home/anton/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/anton/Desktop/[pluralsight.com] Backbone.js Fundamentals/code/backbone-02-validation.js",
 		"/home/anton/SinatraProjects/backbone_app/index.html",
 		"/home/anton/SinatraProjects/backbone_app/coffee/rectangles.coffee",
@@ -829,7 +872,6 @@
 		"/home/anton/SinatraProjects/backbone_app/coffee/rectangles.js",
 		"/home/anton/Desktop/[pluralsight.com] Backbone.js Fundamentals/code/after/code/backbone-01-03/env.html",
 		"/home/anton/SinatraProjects/backbone_app/js/rectangles.js.coffee",
-		"/home/anton/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/anton/SinatraProjects/backbone_app/js/js.js",
 		"/home/anton/Desktop/[pluralsight.com] Backbone.js Fundamentals/code/after/code/backbone-01-03/rectangles.js",
 		"/home/anton/SinatraProjects/backbone_app/js/index.html",
@@ -855,33 +897,11 @@
 		"/home/anton/Desktop/simple_cms/app/views/subjects/show.html.erb",
 		"/home/anton/Desktop/simple_cms/config/routes.rb",
 		"/home/anton/Desktop/simple_cms/app/controllers/pages_controller_controller.rb",
-		"/home/anton/Desktop/simple_cms/app/views/pages_controller/index.html.erb",
-		"/home/anton/Desktop/simple_cms/app/views/section_controller/index.html.erb",
-		"/home/anton/Desktop/simple_cms/app/models/page.rb",
-		"/home/anton/Desktop/simple_cms/app/views/subjects/index.html.erb",
-		"/home/anton/Desktop/simple_cms/app/views/subjects/delete.html.erb",
-		"/home/anton/Desktop/simple_cms/app/views/subjects/edit.html.erb",
-		"/home/anton/Desktop/simple_cms/app/views/subjects/new.html.erb",
-		"/home/anton/.config/sublime-text-3/Packages/ERB Snippets/form_for_erb.sublime-snippet",
-		"/home/anton/Desktop/simple_cms/app/views/demo/index.html.erb",
-		"/home/anton/SinatraProjects/second_project/main.rb",
-		"/home/anton/SinatraProjects/second_project/views/template.slim",
-		"/home/anton/SinatraProjects/first_project/controller.rb",
-		"/home/anton/Desktop/good parts/program.js",
-		"/home/anton/Desktop/good parts/program.html",
-		"/home/anton/SinatraProjects/rails_lynda/simple_cms/app/models/subject.rb",
-		"/home/anton/SinatraProjects/rails_lynda/simple_cms/bin/spring",
-		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/schema.rb",
-		"/home/anton/SinatraProjects/rails_lynda/simple_cms/app/models/page.rb",
-		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/migrate/20141112134932_create_sections.rb",
-		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/migrate/20141112134925_create_pages.rb",
-		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/migrate/20141112134910_create_subjects.rb",
-		"/home/anton/SinatraProjects/rails_lynda/simple_cms/config/database.yml",
-		"/home/anton/SinatraProjects/rails_lynda/simple_cms/db/migrate/20141112125540_alter_users.rb"
+		"/home/anton/Desktop/simple_cms/app/views/pages_controller/index.html.erb"
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -952,97 +972,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app/views/application/index.html.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 52,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								52,
-								52
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"open_with_edit": true,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/assets/javascripts/app/buggy.js.coffee",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 148,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								148,
-								148
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/assets/javascripts/app/routers/main_router.js.coffee",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 129,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								80,
-								80
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1105,12 +1036,40 @@
 		"selected_items":
 		[
 			[
-				"bug",
-				"app/assets/javascripts/app/buggy.js.coffee"
+				"head",
+				"app/assets/javascripts/app/templates/header.hbs"
+			],
+			[
+				"main",
+				"app/assets/stylesheets/main.scss"
+			],
+			[
+				"ap",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"config/a",
+				"config/application.rb"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js"
 			],
 			[
 				"app",
-				"buggy/app/controllers/application_controller.rb"
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"appht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"bug",
+				"app/assets/javascripts/app/buggy.js.coffee"
 			],
 			[
 				"rout",
@@ -1198,8 +1157,8 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 205.0,
+	"side_bar_visible": false,
+	"side_bar_width": 231.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
