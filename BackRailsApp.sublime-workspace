@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"Vi",
+				"Views"
+			],
+			[
+				"swa",
+				"swapMain"
+			],
+			[
+				"add",
+				"addToCollection"
+			],
+			[
+				"trig",
+				"triggerProjectCreate"
+			],
+			[
 				"res",
 				"respond_with"
 			],
@@ -30,10 +46,6 @@
 			[
 				"proj",
 				"projects"
-			],
-			[
-				"swa",
-				"swapMain"
 			],
 			[
 				"pr",
@@ -467,24 +479,56 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/assets/javascripts/app/views/projects.js.coffee",
+			"settings":
+			{
+				"buffer_size": 687,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/app/views/content.js.coffee",
+			"settings":
+			{
+				"buffer_size": 981,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/User/builds/Coffee-Compile.sublime-build",
 	"command_palette":
 	{
-		"height": 306.0,
+		"height": 75.0,
 		"selected_items":
 		[
+			[
+				"show ta",
+				"Git: Show Tags"
+			],
 			[
 				"push",
 				"Git: Push"
 			],
 			[
-				"quic	",
+				"git tag",
+				"Git: New Tag"
+			],
+			[
+				"qu",
 				"Git: Quick Commit"
 			],
 			[
 				"add",
 				"Git: Add..."
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"quic	",
+				"Git: Quick Commit"
 			],
 			[
 				"coffee",
@@ -507,20 +551,8 @@
 				"Git: New Tag"
 			],
 			[
-				"qu",
-				"Git: Quick Commit"
-			],
-			[
 				"git add",
 				"Git: Add..."
-			],
-			[
-				"qui",
-				"Git: Quick Commit"
-			],
-			[
-				"git tag",
-				"Git: New Tag"
 			],
 			[
 				"git t",
@@ -882,15 +914,19 @@
 	],
 	"file_history":
 	[
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/new_project.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/index.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/buggy.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/project.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/models/project.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/projects.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/controllers/projects_controller.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/helpers/projects_helper.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/application.js",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/routers/main_router.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/content.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/new_project.hbs",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/new_project.js.coffee",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/models/project.js.coffee",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/controllers/projects_controller.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/lib/csrf_hack.js.coffee",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/projects.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/models/concerns/.keep",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/test/models/project_test.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/test/models/.keep",
@@ -902,7 +938,6 @@
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/content.hbs",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/tmp/cache/assets/development/sass/71abee5eed08bb211fb3662cbd77de3a6306b422/_text-emphasis.scssc",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/config/environments/test.rb",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/index.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/header.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/footer.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/empty.js.coffee",
@@ -911,19 +946,16 @@
 		"/home/anton/SinatraProjects/BackboneRails/buggy/tmp/cache/assets/development/sass/34d15559b158747b69c6b89d3ffd9e7ea841a0fc/_variables.scssc",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/projects.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/routers/main_router.js.js",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/project.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/projects.css.scss",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/project.hbs",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/test/controllers/projects_controller_test.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/test/fixtures/projects.yml",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/helpers/projects_helper.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/config/routes.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/tmp/cache/assets/development/sass/34d15559b158747b69c6b89d3ffd9e7ea841a0fc/_component-animations.scssc",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/filter_parameter_logging.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/mime_types.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/Rakefile",
 		"/home/anton/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/buggy.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/inflections.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/projects.hbs",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/config/application.rb",
@@ -1089,8 +1121,69 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/assets/javascripts/app/views/projects.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/javascripts/app/views/content.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								784
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1153,6 +1246,22 @@
 		"selected_items":
 		[
 			[
+				"viewscon",
+				"app/assets/javascripts/app/views/content.js.coffee"
+			],
+			[
+				"projecjs",
+				"app/assets/javascripts/app/views/projects.js.coffee"
+			],
+			[
+				"new",
+				"app/assets/javascripts/app/views/new_project.js.coffee"
+			],
+			[
+				"bu",
+				"app/assets/javascripts/app/buggy.js.coffee"
+			],
+			[
 				"app",
 				"app/assets/javascripts/application.js"
 			],
@@ -1167,10 +1276,6 @@
 			[
 				"template",
 				"app/assets/javascripts/app/templates/new_project.hbs"
-			],
-			[
-				"new",
-				"app/assets/javascripts/app/views/new_project.js.coffee"
 			],
 			[
 				"view",
