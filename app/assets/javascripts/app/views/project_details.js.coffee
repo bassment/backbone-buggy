@@ -4,4 +4,4 @@ class App.Views.ProjectDetails extends Backbone.View
 
   render: ->
     @$el.html(@template(@model.toJSON()))
-    thisp
+    this
