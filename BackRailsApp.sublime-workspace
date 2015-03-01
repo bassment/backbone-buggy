@@ -4,16 +4,52 @@
 		"selected_items":
 		[
 			[
+				"rend",
+				"render"
+			],
+			[
+				"Pro",
+				"Project"
+			],
+			[
+				"V",
+				"Views"
+			],
+			[
+				"rende",
+				"renderProject"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"Mo",
+				"Models"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"la",
+				"layoutView"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
 				"h",
 				"html"
 			],
 			[
 				"te",
 				"template"
-			],
-			[
-				"class",
-				"className"
 			],
 			[
 				"cla",
@@ -236,10 +272,6 @@
 				"myView"
 			],
 			[
-				"V",
-				"V"
-			],
-			[
 				"pos",
 				"position"
 			],
@@ -254,10 +286,6 @@
 			[
 				"va",
 				"var"
-			],
-			[
-				"la",
-				"lambda"
 			],
 			[
 				"par",
@@ -411,16 +439,24 @@
 	"build_system": "Packages/User/builds/Coffee-Compile.sublime-build",
 	"command_palette":
 	{
-		"height": 54.0,
+		"height": 138.0,
 		"selected_items":
 		[
 			[
-				"hand",
-				"Set Syntax: Handlebars"
+				"show",
+				"Git: Show Tags"
 			],
 			[
-				"instal",
-				"Package Control: Install Package"
+				"git tag",
+				"Git: New Tag"
+			],
+			[
+				"git t",
+				"Git: New Tag"
+			],
+			[
+				"log",
+				"Git: Log All"
 			],
 			[
 				"push",
@@ -431,8 +467,52 @@
 				"Git: Quick Commit"
 			],
 			[
+				"gits",
+				"Git: Status"
+			],
+			[
 				"add",
 				"Git: Add..."
+			],
+			[
+				"hande",
+				"Snippet: if(handlebars)"
+			],
+			[
+				"hand",
+				"Snippet: handlebars template"
+			],
+			[
+				"handl",
+				"Snippet: handlebars template"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set ra",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"lo",
+				"Git: Log All"
+			],
+			[
+				"git",
+				"Git: Log All"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
 			],
 			[
 				"git push",
@@ -451,10 +531,6 @@
 				"Git: Init"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"list",
 				"Package Control: List Packages"
 			],
@@ -467,16 +543,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"qu",
-				"Git: Quick Commit"
-			],
-			[
 				"co",
 				"Git: Commit"
-			],
-			[
-				"ad",
-				"Git: Add..."
 			],
 			[
 				"git l",
@@ -503,20 +571,12 @@
 				"Git: Quick Commit"
 			],
 			[
-				"lo",
-				"Git: Log All"
-			],
-			[
 				"amen",
 				"Git: Amend Commit"
 			],
 			[
 				"com",
 				"Git: Commit"
-			],
-			[
-				"log",
-				"Git: Log All"
 			],
 			[
 				"reser",
@@ -759,7 +819,6 @@
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/controllers",
@@ -770,20 +829,42 @@
 	],
 	"file_history":
 	[
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/projects.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/project.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/project.hbs",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/routers/main_router.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/content.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/models/project.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/models/project.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/controllers/projects_controller.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/projects.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/test/controllers/projects_controller_test.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/test/fixtures/projects.yml",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/projects.css.scss",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/test/models/project_test.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/helpers/projects_helper.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/routes.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/tmp/cache/assets/development/sass/34d15559b158747b69c6b89d3ffd9e7ea841a0fc/_component-animations.scssc",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/filter_parameter_logging.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/mime_types.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/Rakefile",
+		"/home/anton/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/buggy.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/application.js",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views/application/index.html.erb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/inflections.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/empty.js.coffee",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/projects.hbs",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/content.hbs",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/config/application.rb",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/tmp/cache/assets/development/sass/d600559d233335b721f839c55c34ac25645c58c5/main.scssc",
+		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/main.scss",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/footer.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/footer.hbs",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/header.hbs",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/routers/main_router.js.coffee",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/main.scss",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/tmp/cache/assets/development/sass/d600559d233335b721f839c55c34ac25645c58c5/main.scssc",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/header.js.coffee",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/templates/content.hbs",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/views/content.js.coffee",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/application.scss",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/application.js",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/Gemfile",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/javascripts/app/buggy.js.coffee",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/config/application.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/config.ru",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/cookies_serializer.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/config/database.yml",
@@ -792,16 +873,11 @@
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views/layouts/application.html.erb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/application.css",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/controllers/application_controller.rb",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/app/views/application/index.html.erb",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/config/routes.rb",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/app/assets/stylesheets/main.css.scss",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/config/initializers/mime_types.rb",
 		"/home/anton/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-		"/home/anton/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/BackRailsApp.sublime-project",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/.gitignore",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/bin/bundle",
-		"/home/anton/SinatraProjects/BackboneRails/buggy/Rakefile",
 		"/home/anton/SinatraProjects/BackboneRails/buggy/bin/rails",
 		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/css/main.css",
 		"/home/anton/SinatraProjects/o'reilly-backbone/ToDoApp/coffee/js/test.js",
@@ -880,24 +956,7 @@
 		"/home/anton/Desktop/simple_cms/app/views/application/_error_messages.html.erb",
 		"/home/anton/Desktop/simple_cms/app/assets/stylesheets/admin.css",
 		"/home/anton/Desktop/simple_cms/app/views/sections/_form.html.erb",
-		"/home/anton/Desktop/simple_cms/app/helpers/application_helper.rb",
-		"/home/anton/Desktop/simple_cms/app/models/subject.rb",
-		"/home/anton/Desktop/simple_cms/app/views/pages/_form.html.erb",
-		"/home/anton/Desktop/simple_cms/app/views/subjects/_form.html.erb",
-		"/home/anton/Desktop/simple_cms/app/controllers/subjects_controller.rb",
-		"/home/anton/Desktop/simple_cms/app/views/sections/index.html.erb",
-		"/home/anton/Desktop/simple_cms/app/controllers/sections_controller.rb",
-		"/home/anton/Desktop/simple_cms/app/views/pages/index.html.erb",
-		"/home/anton/Desktop/simple_cms/app/controllers/pages_controller.rb",
-		"/home/anton/Desktop/simple_cms/config/database.yml",
-		"/home/anton/Desktop/simple_cms/app/views/pages/show.html.erb",
-		"/home/anton/Desktop/simple_cms/app/views/pages/new.html.erb",
-		"/home/anton/Desktop/simple_cms/db/migrate/20130813025835_create_pages.rb",
-		"/home/anton/Desktop/simple_cms/app/views/pages/edit.html.erb",
-		"/home/anton/Desktop/simple_cms/app/views/subjects/show.html.erb",
-		"/home/anton/Desktop/simple_cms/config/routes.rb",
-		"/home/anton/Desktop/simple_cms/app/controllers/pages_controller_controller.rb",
-		"/home/anton/Desktop/simple_cms/app/views/pages_controller/index.html.erb"
+		"/home/anton/Desktop/simple_cms/app/helpers/application_helper.rb"
 	],
 	"find":
 	{
@@ -915,6 +974,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#= require_self",
 			"button2",
 			"')",
 			"puts \"What is your name\"\nmy_name = gets.strip",
@@ -1036,12 +1096,48 @@
 		"selected_items":
 		[
 			[
-				"head",
-				"app/assets/javascripts/app/templates/header.hbs"
+				"project.js",
+				"app/assets/javascripts/app/models/project.js.coffee"
+			],
+			[
+				"projectsjs",
+				"app/assets/javascripts/app/views/projects.js.coffee"
+			],
+			[
+				"proje",
+				"app/assets/javascripts/projects.js.coffee"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"projecon",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"bugg",
+				"app/assets/javascripts/app/buggy.js.coffee"
+			],
+			[
+				"inde",
+				"app/views/application/index.html.erb"
+			],
+			[
+				"contehb",
+				"app/assets/javascripts/app/templates/content.hbs"
+			],
+			[
+				"conten",
+				"app/assets/javascripts/app/views/content.js.coffee"
 			],
 			[
 				"main",
-				"app/assets/stylesheets/main.scss"
+				"app/assets/javascripts/app/routers/main_router.js.coffee"
+			],
+			[
+				"head",
+				"app/assets/javascripts/app/templates/header.hbs"
 			],
 			[
 				"ap",
@@ -1070,10 +1166,6 @@
 			[
 				"bug",
 				"app/assets/javascripts/app/buggy.js.coffee"
-			],
-			[
-				"rout",
-				"buggy/config/routes.rb"
 			],
 			[
 				"in",
